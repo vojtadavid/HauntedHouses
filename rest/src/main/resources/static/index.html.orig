@@ -1,0 +1,31 @@
+<<<<<<< HEAD
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <!--<link rel="shortcut icon" href="/favicon.ico">-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap-theme.min.css">
+    <title>React App</title>
+    <link href="./css/main.6e4785f3.css" rel="stylesheet">
+</head>
+<body>
+<div id="root"></div>
+<script type="text/javascript" src="./js/main.ef99689f.js"></script>
+=======
+<!doctype html>
+<html>
+<head>
+    <title>Hello AngularJS</title>
+
+</head>
+
+<body >
+
+<p>Get your greeting <a href="/houses">here</a></p>
+<p>Get your greeting <a href="/hello">here</a></p>
+
+>>>>>>> f4a081cdb1c3c56ab0eb358ef1f33e8f81b3a6bc
+</body>
+</html>
